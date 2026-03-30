@@ -23,6 +23,11 @@ bool Fibonacci(int x) {
     int a = 0, b = 1, c = 0;
 
     while (c <= x) {
-        
+     if (c == x) {
+        return true;
+        }
+        a = b;
+        b = c;
+        c = a + b;
     }
 }
