@@ -17,3 +17,7 @@ bool Prima(int x) {
     }
     return true;
 }
+
+//fungsi untuk cek bilangan fibonaci
+bool Fibonacci(int x) {
+}
