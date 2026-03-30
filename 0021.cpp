@@ -47,3 +47,8 @@ void tampilPrima() {
         cout << n << " bukan bilangan PRIMA" << endl;
     }
 }
+
+// Prosedur hasil Fibonacci
+void tampilFibonacci() {
+    
+}
