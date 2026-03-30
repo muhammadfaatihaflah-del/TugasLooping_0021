@@ -40,4 +40,10 @@ void inputAngka() {
 }
 
 // Prosedur hasil prima
-void tampilPrima() {}
+void tampilPrima() {
+    if (Prima(n)) {
+        cout << n << " adalah bilangan PRIMA" << endl;
+    } else {
+        cout << n << " bukan bilangan PRIMA" << endl;
+    }
+}
