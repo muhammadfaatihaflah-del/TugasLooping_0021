@@ -32,3 +32,8 @@ bool Fibonacci(int x) {
     }
      return false;
 }
+
+// Prosedur input
+void inputAngka() {
+    cout << "Masukkan angka: ";
+}
