@@ -6,5 +6,6 @@ int n, pilihan;
 
 // Function untuk cek bilangan prima
 bool Prima(int x) {
-
+    if (x <= 1) return false;
+    
 }
