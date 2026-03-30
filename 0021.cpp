@@ -50,5 +50,9 @@ void tampilPrima() {
 
 // Prosedur hasil Fibonacci
 void tampilFibonacci() {
-    
+    if (Fibonacci(n)) {
+        cout << n << " adalah bilangan FIBONACCI" << endl;
+    } else {
+        cout << n << " bukan bilangan FIBONACCI" << endl;
+    }
 }
