@@ -68,5 +68,7 @@ void tampilMenu() {
 
 // Main program
 int main() {
-    
+     while (true) {
+
+    }
 }
