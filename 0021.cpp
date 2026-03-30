@@ -15,4 +15,5 @@ bool Prima(int x) {
         }
         i++;
     }
+    return true;
 }
