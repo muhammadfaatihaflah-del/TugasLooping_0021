@@ -20,4 +20,5 @@ bool Prima(int x) {
 
 //fungsi untuk cek bilangan fibonaci
 bool Fibonacci(int x) {
+    int a = 0, b = 1, c = 0;
 }
