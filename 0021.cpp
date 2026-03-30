@@ -30,4 +30,5 @@ bool Fibonacci(int x) {
         b = c;
         c = a + b;
     }
+     return false;
 }
